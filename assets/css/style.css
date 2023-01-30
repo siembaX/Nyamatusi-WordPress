@@ -1,0 +1,861 @@
+.backimgsimba {
+  background-image: url(../images/pexels-hendrik-cornelissen-2862070.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.nav-text{
+  color: red;
+  font-family: 'papyrus';
+}
+
+.border-bottom{
+  position: relative;
+  bottom: 25px;
+}
+
+.sectn-2{
+  width: 100%;
+  height: 130vh;
+}
+
+.nyamatxt {
+  color: #e75317;
+  font-family: "papyrus";
+  font-size: 35px;
+}
+
+* {
+  font-family: "Gotham", sans-serif;
+}
+
+.psmalltxt{
+  font-size: 13px;
+}
+
+.middlesnaps{
+  width: 357px;
+  height: 390px;
+}
+
+.sightings{
+  width: 300vh;
+}
+
+.lionsnaps{
+  width: 220px;
+  height: 290px;
+}
+
+.lastsnaps{
+  width: 220px;
+  height: 340px;
+}
+
+.all2imgs{
+  padding: 20px;
+}
+
+button{
+  background-color: #e75317;
+  color: white;
+  border: none;
+  height: 40px;
+}
+
+.ind-txt{
+  font-size: 135px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: 90px;
+  top: 105px;
+  
+
+}
+
+.icon-1{
+  width: 40px;
+  height: 40px;
+}
+
+.icon-2{
+  width: 40px;
+  height: 40px;
+}
+
+.icon-3{
+  width: 40px;
+  height: 40px;
+}
+
+.icons-social{
+display: flex;
+align-items: flex-end;
+justify-content: center;
+position: relative;
+right: 80px;
+gap: 40px;
+}
+
+.activities-section{
+  width: 100%;
+  height: 125vh;
+  position: relative;
+  top: 200px;
+}
+
+.hamburger{
+  width: 62px;
+}
+
+.nav-link{
+color: white;
+}
+
+/* .mynavz{
+  display: flex;
+  gap: 50px;
+} */
+
+.our-activities-sections{
+  width: 100%;
+  height: 100vh;
+  
+}
+
+h2{
+  color: rgb(80, 80, 80);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ font-family: 'gotham' sans-serif;
+}
+.banner{
+  background-image:url(../images/banner.png);
+  height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+.banner .navbar{
+height: 100px;
+}
+
+.banner .navbar-brand{
+color: #e75317;
+font-size: 30px;
+margin-left: 7%;
+font-family: papyrus;
+padding-bottom: 75px;
+}
+.banner .nav{
+margin-left: 70px;
+}
+.banner .nav li a{
+color: white;
+font-size:19px;
+padding-bottom: 90px;
+padding-left: 20px;
+}
+.hero-h1{
+  font-size: 150px;
+  color: white;
+  margin-top: 80px;
+  font-weight: 400;
+}
+.menu{
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin:40px;
+margin-bottom: 100px;
+
+  }
+
+  .mini-menu1{
+  background-color: white;
+  height: 2px;
+  width: 34px;
+  margin: 2px;
+  }
+  .mini-menu2{
+      background-color: white;
+      height: 2px;
+      width: 25px;
+      margin: 2px;
+
+      }
+      .mini-menu3{
+          background-color: white;
+          height: 2px;
+          width: 16px;
+          margin: 2px;
+        
+          }
+          .icons{
+        display: flex;  
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 30px;
+      size: 10px;
+    padding-right: 60px;
+      margin-top: -100px;
+
+          }
+          .down-arrow{
+           display: flex;
+            justify-content: center;
+     padding: 200px;
+
+          }
+      .icon1{
+      width: 26px;
+      height: 26px;
+      } 
+      .icon2{
+        width: 26px;
+        height: 26px;
+        }
+        .icon3{
+          width: 33px;
+          height: 33px;
+          }     
+       
+.our-story{
+width: 100%;
+height: 100vh;
+padding: 90px;
+}
+
+.st-image1{
+background-image: url(../images/middle.png);
+width: 330px;
+height: 400px;
+background-position: center;
+background-size: cover;
+display: flex;
+justify-content: center;
+margin-top: 90px;
+margin-left: 90px;
+
+}
+.st-image2{
+background-image: url(../images/lion.png);
+width: 270px;
+height: 300px;
+background-position: center;
+background-size: cover;
+display: flex;
+justify-content: center;
+}
+.st-image3{
+  background-image: url(../images/last.png);
+   width: 270px;
+   height: 350px;
+   background-position: center;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   }
+.nature-text{
+  width: 100%;
+}
+
+.btn-story{
+background-color: #e75317;
+  border: none;
+  width: 140px;
+  height: 50px;
+  color: white;
+}
+.activities{
+width: 100%;
+margin-top: 80px;
+}
+.activities-imgs{
+display: flex;
+flex-direction: row;
+gap: 10px;
+
+}
+.rect1{
+background-image: url(../images/Rectangle\ 17.png);
+width: 300px;
+height: 400px;
+background-position: center;
+background-size: cover;
+transition: 0.5s ease-in-out;
+
+}
+
+.rect1:hover{
+  cursor: pointer;
+  transform: scale(0.5);
+}
+.rect2{
+background-image: url(../images/Rectangle\ 16.png);
+width: 300px;
+height: 400px;
+background-position: center;
+background-size: cover;
+
+}
+.rect3{
+  background-image: url(../images/Rectangle\ 18.png);
+  width: 300px;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  
+  }
+  .rect4{
+    background-image: url(../images/Rectangle\ 19.png);
+    width: 300px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    
+    }
+    .rect5{
+      background-image: url(../images/Rectangle\ 20.png);
+      width: 300px;
+      height: 400px;
+      background-position: center;
+      background-size: cover;
+      
+      }
+
+.overlay1{
+height: 100%;
+width: 100%;
+background-color: rgba(0, 0, 0, 0.467);
+display: flex;
+align-items: center;
+padding-top: 270px;
+flex-direction: column;
+opacity: 0;
+transition: opacity 0.25s;
+} 
+.overlay1:hover{
+  opacity: 1;
+}
+.overlay2{
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.414);
+
+    } 
+
+.game-h5{
+color: white;
+position: relative; 
+bottom: 20px; 
+
+} 
+.game-p{
+color: white;
+font-size: small;
+position: relative; 
+bottom: 7px; 
+}
+.game-h4{
+color: white;
+display: flex;
+justify-content: center;
+padding-top: 350px;
+}
+.sightings{
+width: 100%;
+height: 80vh;
+} 
+.sight-text{
+margin-left: 70PX;
+margin-top: 100px;
+}
+.sightings .row{
+display: flex;
+margin-left: 60px;
+padding-bottom: 40px;
+}
+.recent-img1{
+width: 200px;
+height: 250px;
+}
+.recent-img2{
+width: 200px;
+height: 250px;
+
+}
+.recent-img3{
+  width: 200px;
+  height: 250px;
+
+}
+.recent-img4{
+  width: 200px;
+  height: 400px;
+}
+.recent-img5{
+  width: 200px;
+  height: 250px; 
+  position: relative;
+}
+.recent-img6{
+  width: 200px;
+  height: 450px;
+  position: relative;
+  top: 20px;
+}
+.ellyandbuffy{
+position: relative;
+bottom: 230px;
+display: grid;
+gap: 10px;
+}
+
+
+
+.sight-h2{
+width: 52%;
+}
+.kudu{
+  position: relative;
+ top: 50px;
+}
+.zebra{
+  position: relative;
+ bottom: 50px; 
+}
+.iteneries{
+height: 100vh;
+width: 100%;
+margin-top: 230px;
+}
+.iteneries-images1{
+display: flex;
+flex-direction: row;
+gap: 20px;
+color: white;
+}
+.heart-icon{
+width: 28px;
+height: 32px;
+margin-top: 5px;
+}
+.orange-rect{
+width: 320px;
+height: 480px;
+background-color: #e75317;
+display: flex;
+padding-left: 20px;
+flex-direction: column;
+}
+.white-rect{
+width: 35px;
+height: 35px;
+background-color: white;
+margin-left: 250px;
+display: flex;
+justify-content: center;
+}
+.hrline{
+color: white;
+border: 1px solid;
+width: 330px;
+position: relative;
+right: 30px;
+}
+.iten-img1{
+background-image: url(../images/Rectangle\ 38.png);
+width: 325px;
+height: 480px;
+background-position: center;
+background-size: cover;
+}
+.iten-img2{
+background-image: url(../images/Rectangle\ 36.png);
+width: 320px;
+height: 480px;
+background-position: center;
+background-size: cover;
+display: flex;
+align-items: center;
+padding-top: 390px;
+flex-direction: column;
+}
+.iten-img3{
+  background-image: url(../images/Rectangle\ 37.png);
+  width: 290px;
+  height: 480px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  padding-top: 390px;
+  flex-direction: column;
+  }
+.Testimonial-Section{
+width: 100%;
+height: 100vh;
+}
+.jac-h5{
+color: white;
+position: relative;
+padding-top:135%;
+}
+  .card{
+   display: flex;
+   flex-direction: row; 
+  }
+  .testmonial-img1{
+
+  background-image: url(../images/Rectangle\ 46.png);
+  width: 350px;
+  height: 480px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+justify-content: center;
+  }
+  .jacob-overlay{
+    width: 100%;
+height: 100%;
+background-color: #b03a0c4f;
+position: absolute;
+  }
+  .Testimonial-img2{
+    background-image: url(../images/Rectangle\ 45.png);
+    width: 300px;
+    height: 480px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   }
+
+ .testi-overlay-2{
+  width: 100%;
+  height: 100%;
+  background-color: #ac3c0f6c;
+  position: absolute;
+ }
+  .p-testimonials{
+    color: black;
+  }
+  .h5-testimonials{
+    color: black; 
+  }
+
+  .ptestimonials-div{
+    text-align: center;
+  }
+  .card-rect{
+    width: 100%;
+    height: 480px;
+   border: 2px solid #e75317;
+   display: flex;
+ align-items: center;
+  flex-direction: column;
+  padding-top: 50px;
+  }
+  .lady{
+    width: 130px;
+    height: 130px;
+  }
+  .line{
+    border-bottom: 100px;
+background-color: #e75317;
+height: 5px;
+  }
+
+ .br-h5{
+  color: white;
+   padding-top:145%;
+   position: relative;
+ }
+.gallery{
+width: 100%;
+height: 115vh;
+}
+.gallery-img-2{
+display: flex;
+flex-direction: row;
+gap: 5px;
+}
+.img-gallery2{
+width: 210px;
+height: 310px;
+}
+.img-gallery3{
+width: 210px;
+height: 310px;
+}
+.img-gallery1{
+width: 637px;
+height: 310px;
+position: relative;
+top: 0px;
+}
+
+.img-gallery1-2{
+  width: 637px;
+  height: 310px;
+  }
+
+.img-gallery4{
+width: 210px;
+height: 310px;
+}
+.img-gallery-5{
+width: 310px;
+height: 310px;
+}
+.img-gallery-6{
+width: 310px;
+height: 310px;
+}
+.line{
+width: 80px;
+height: 3px;
+color: #cc440f;
+}
+.footer{
+width: 100%;
+height: 45vh;
+background-color: #cc440f;
+}
+.h6-footer{
+color: white;
+}
+.txt-p-footer{
+color: white; 
+line-height: 30px; 
+}
+form input{
+border: none;
+background-color: white;
+padding: 10px 30px;
+}
+form{
+display: flex;
+flex-direction: row;
+}
+.submit-button{
+background-color: black;
+color: white;
+right: 25px;
+}
+.copyrights{
+display: flex;
+justify-content: center;
+margin-top: 28px;
+}
+hr{
+color: white;
+border: 2px solid;
+
+}
+.scroll-arrow{
+width: 25px;
+height: 18px;
+margin-left: 250px;
+position: relative;
+bottom: 23px;
+}
+
+.story-images{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.downarrow{
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  top: 220px;
+  left: 700px;
+  cursor: pointer;
+  animation: bounce 0.9s infinite;
+}
+
+@keyframes bounce{
+  10%{
+    height: 50px;
+    width: 50px;
+  }
+
+  30%{
+    height: 50px;
+    width: 50px;
+  }
+
+  50%{
+    height: 50px;
+    width: 51px;
+    transform: translateY(15px);
+  }
+/* 
+  75%{
+    height: 50px;
+    width: 50px;
+  }
+
+  100%{
+    height: 50px;
+    width: 50px;
+  } */
+}
+
+.navbar{
+  display: flex;
+   justify-content: space-between;
+   align-items: center;
+   color: black ;
+}
+
+
+
+
+.brand-title{
+   font-size: 1.5rem;
+    margin: .5rem;
+
+}
+
+.navbar-links ul{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  
+
+}
+
+.navbar-links li{
+
+  list-style: none; 
+
+}
+
+.navbar-links a:hover{
+
+  color: red;
+  
+
+}
+
+.navbar-links li a{
+
+   text-decoration: none;
+   color: #fff;
+   padding: 1rem;
+   display: block ;
+   
+
+}
+
+.toggle-button{
+  position: absolute;
+  top: .75rem;
+  right: 1rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+}
+
+.icons-social{
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.nature-bold{
+  font-weight: bold;
+  color: white;
+  font-size: 130px;
+  position: absolute;
+  top: 20px;
+  right: 405px;
+  letter-spacing: 6px;
+}
+
+.toggle-button .bar{
+  height: 3px;
+  width: 100%;
+  background-color: black;
+  border-radius: 10px;
+
+}
+
+@media (max-width:576px){
+  .toggle-button{
+      display: flex;
+  }
+
+  .navbar-links{
+      display: none;
+      width: 100%;
+  }
+
+  .navbar{
+      flex-direction: column;
+      align-items: flex-start;
+  }
+
+  .navbar-links ul{
+      width: 100%;
+      flex-direction: column;
+  }
+/* Brings nav links to the center */
+  .navbar-links li{
+      text-align: center;
+  }
+
+  /* Brings the nav links closer */
+  .navbar-links li a{
+      padding: .5rem 1rem;
+  }
+
+  .navbar-links li a:hover{
+      background-color: red;
+      color: white;
+  }
+
+  .navbar-links.active{
+       display: flex;
+  }
+
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
